@@ -19,17 +19,7 @@ const Ads = () => {
                     <div class="col-lg-6 pt-3">
                         <h1>We Are<span style={{ color: "orange" }} > Fruit's </span></h1>
                         <p>
-                            I apologize for the confusion, but as an AI language model, my
-                            responses are generated based on pre-existing knowledge up until
-                            September 2021. I don't have access to real-time data or an
-                            extensive database of specific details about all fruits, including
-                            their nutritional information or specific attributes. For
-                            comprehensive and up-to-date information about various fruits,
-                            including their nutritional value, health benefits, and
-                            characteristics, I recommend referring to reputable sources such as
-                            government health websites, nutrition databases, or scientific
-                            literature. These sources will provide accurate and detailed
-                            information about fruits and their properties..
+                        Welcome to our Fresh Fruit Hub, where nature's vibrant palette comes alive in a symphony of flavors and colors! Immerse yourself in a world of luscious fruits that are not just a feast for the eyes but a celebration for your taste buds. From the succulent sweetness of ripe mangoes to the crisp juiciness of apples, each fruit is a testament to the bountiful wonders of the Earth. Our carefully curated selection boasts the freshest picks,simply savoring nature's candy, our Fresh Fruit Hub is your gateway to a world where every bite is a burst of vitality. Join us in embracing the natural goodness that only the finest fruits can offer, and let your culinary adventures thrive with freshness!
                         </p>
                     </div>
                 </div>
